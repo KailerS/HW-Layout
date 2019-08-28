@@ -28,7 +28,8 @@ header, nav, footer, section, aside {
 }
 
 header, nav, footer{
-    height: 50px;
+    height: 40px;
+    padding-top: 40px;
 
 }
 
