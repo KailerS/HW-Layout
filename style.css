@@ -37,6 +37,7 @@ h1, p {
     color: #777;
     background: #ebebeb;
     padding: 10px;
+    margin: 10px;
 }
 
 section {
@@ -46,7 +47,7 @@ section {
 }
 
 aside {
-    padding-bottom: 150px;
+    padding-bottom: 120px;
     width: 340px;
     float: right;
     padding-left: 40px;
